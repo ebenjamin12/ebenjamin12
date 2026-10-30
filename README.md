@@ -6,7 +6,7 @@
 
 Building reliable, maintainable software — and learning something new with every project.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0e7fb8?style=flat-square&logo=googlechrome&logoColor=white)](https://ebenjamin12.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0e7fb8?style=flat-square)](https://ebenjamin12.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elishabenjaminsreepalle)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ebenjamin12)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:elishasreepalle@gmail.com)
